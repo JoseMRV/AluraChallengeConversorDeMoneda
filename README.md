@@ -5,9 +5,10 @@ Utiliza la API de ExchangeRate-API para obtener los tipos de cambio actuales.
 
 ## Requisitos 📋
 - Clave API válida (deberás remplazar ***YOUR-API-KEY*** dentro del código)
+- Gson 2.10.1
 
 ## Descripción 📄
-- Dentro del código, remplaza 🔃 ***YOUR-API-KEY***, con la Key que ExchangeRate-API te proporciona una vez te hayas registrado en su sitio.
+- Dentro del código, en la clase ***ConsultaDeMoneda*** remplaza 🔃 ***YOUR-API-KEY***, con la Key que ExchangeRate-API te proporciona una vez te hayas registrado en su sitio.
 
 👉[ExchangeRate-API](https://www.exchangerate-api.com/ "ExchangeRate-API")👈
 
